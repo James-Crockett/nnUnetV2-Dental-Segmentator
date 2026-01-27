@@ -1,17 +1,17 @@
-#  nnUnet2D Dental Segmentator
+#  nnUnetV2 - Dental Segmentator
 
 This project converts CBCT DICOM files into multi-class segmentation outputs. I used to work with this tool in 3D slicer. Integrated a similar tool like this my last internship. Just created this for my future projects to work with medical data.
 
 
 ## Model Classes
 
-  Label   Structure
-  ------- ------------------
-  1       Upper skull
-  2       Mandible
-  3       Upper teeth
-  4       Lower teeth
-  5       Mandibular canal
+  | Label | Structure |
+|---|---|
+| 1 |  Upper skull |
+| 2 |  Mandible    | 
+| 3 |  Upper teeth |
+| 4 | Lower teeth  | 
+| 5 |  Mandibular canal | 
 
 ------------------------------------------------------------------------
 
