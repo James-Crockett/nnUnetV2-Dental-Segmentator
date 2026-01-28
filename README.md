@@ -2,6 +2,7 @@
 
 This project converts CBCT DICOM files into multi-class segmentation outputs. I used to work with this tool in 3D slicer. Integrated a similar tool like this my last internship. Just created this for my future projects to work with medical data.
 
+<img width="1162" height="834" alt="comparison" src="https://github.com/user-attachments/assets/e24b907c-4a8e-4cda-8c8e-a362104ae3bb" />
 
 ## Model Classes
 
