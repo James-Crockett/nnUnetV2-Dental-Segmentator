@@ -1,4 +1,4 @@
-#  nnUnetV2 - Dental Segmentator
+#  nnUNetV2 - Dental Segmentator
 
 This project converts CBCT DICOM files into multi-class segmentation outputs. I used to work with this tool in 3D slicer. Integrated a similar tool like this my last internship. Just created this for my future projects to work with medical data.
 
